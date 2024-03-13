@@ -1,0 +1,4 @@
+Here is the code to do topic modelling by LSA and LDA. 
+I borrowed ideas from the following 2 links and fix some of the code problems inside.
+https://www.kaggle.com/code/rcushen/topic-modelling-with-lsa-and-lda/notebook
+https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/
